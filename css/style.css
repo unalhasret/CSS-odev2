@@ -16,27 +16,27 @@ p{
 }
 
 .left-box{
-    width: 470.56px;
+    width: 629.062px;
     height: 76px;
     background-color: #7ee5da ;
     float: left;
     margin-right: 3px;
 }
-.left-box-middle{
-    height: 54px;
-    padding: auto;
+.middle{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
-
 
 .middle-box{
     float: left;
-    width: 246.25px;
+    width: 330.922px;
     height: 76px;
     background-color: #70CCC2;
     margin-right: 3px;
 }
 .right-box{
-    width: 552.98px;
+    width: 739.609px;
     height: 76px;
     float: left;
     background-color: #62B3AA;
